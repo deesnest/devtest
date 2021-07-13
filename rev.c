@@ -10,6 +10,6 @@ printf("\nEnter a number: ");
      reverse=reverse*10+rem;    
      n/=10;    
   }    
-  printf("Reversed Number: %d"\n,reverse);    
+  printf("Reversed Number: %d\n",reverse);    
 //return 0;  
 }   
